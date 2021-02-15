@@ -8,7 +8,7 @@ Repository of entry for the SIGNATE competition for classifying images of Hirosh
 
 ## Best result - as of 15/2/2021
 
-Metric |
+Metric | Value
 ------------ | -------------
 Top-1 accuracy | 0.82
 Top-2 accuracy | 0.98
