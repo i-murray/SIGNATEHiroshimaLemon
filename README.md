@@ -10,8 +10,8 @@ Repository of entry for the SIGNATE competition for classifying images of Hirosh
 
 Metric | Value
 ------------ | -------------
-Top-1 accuracy | 0.82
-Top-2 accuracy | 0.98
+Top-1 accuracy | 0.95
+Top-2 accuracy | 1.0
 
 ![Confusion matrix](/images/confusion.png)
 
