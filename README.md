@@ -1,7 +1,8 @@
-# SIGNATE Competition: Classifying Hiroshima lemons
-Repository of entry for the SIGNATE competition for classifying images of Hiroshima lemons according to quality
+# SIGNATE Competition: ひろしまQuest2020：画像データを使ったレモンの外観分類 (Hiroshima Quest2020: Lemon quality classification using image data)
+https://signate.jp/competitions/431
 
-**Colab notebook to be public after stage 1 of competition ends 3/1/2021**
+## Goal
+Classify images of Hiroshima lemons according to quality
 
 ## Examples of lemons in dataset and quality classification
 ![Example lemons](/images/example_lemons.png)
@@ -15,3 +16,5 @@ Top-2 accuracy | 1.0
 
 ![Confusion matrix](/images/confusion.png)
 
+## Google Colab notebooks
+Creation of archives, PyTorch model training and evaluation
